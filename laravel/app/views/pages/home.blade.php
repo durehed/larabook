@@ -1,5 +1,5 @@
 @extends('layouts.default')
 
 @section('content')
-    welcome
+   <h1>Welcome</h1>
 @stop
